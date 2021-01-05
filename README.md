@@ -4,6 +4,7 @@
 The task was to iterate through a CSV file and find the following:
 - Month of greatest increase
 - Month of greatest decrease
+- Average change
 - Total Months
 - Amount Gained/Lost
 
